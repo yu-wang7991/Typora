@@ -1,4 +1,0 @@
-```js
-const name = "world"
-```
-
